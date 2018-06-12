@@ -1,12 +1,12 @@
 {
   "name": "start.js",
   "version": "1.0.0",
-  "description": "Gemaakt Door DzxKing",
-  "main": "index.js",
+  "description": "",
+  "main": "start.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "DzxKing",
+  "author": "iSimonYT",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2",
